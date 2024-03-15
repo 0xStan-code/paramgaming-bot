@@ -20,13 +20,13 @@ paramgaming-bot is a Node.js script designed to interact with the Param Gaming A
 3. Create a `.env` file in the root directory and provide the following environment variables:
    - type ```
      vi .env ```
-    - The above command will create and open a .env file, then to edit the file using the vi editor, press i and add your environment variables.
+    - The above command will create and open a ```.env``` file, then to edit the file using the ```vi editor```, press ```i``` and add your environment variables.
     
    ```plaintext
    USER_EMAIL=your-email@example.com
    USER_PASSWORD=your-password
    ```
-- After adding your environment variables, to save the file, press esc, then type :wq and press enter.
+- After adding your environment variables, to save the file, press ```esc```, then type ```:wq``` and press ```enter```.
 
 ## Usage
 
